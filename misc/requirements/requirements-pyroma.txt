@@ -4,9 +4,9 @@ build==1.3.0
 certifi==2025.11.12
 charset-normalizer==3.4.4
 check-manifest==0.51
-docutils==0.22.3
+docutils==0.22.4
 idna==3.11
-importlib_metadata==8.7.0
+importlib_metadata==8.7.1
 packaging==25.0
 Pygments==2.19.2
 pyproject_hooks==1.2.0
